@@ -16,7 +16,9 @@ I've built systems for libraries, social-service agencies, manufacturers, and sm
 
 ## Public projects to explore
 
-- **[MOBIUS Meeting Minutes Generator](https://github.com/that-guy-scott/mobius-meeting-minutes-generator)** - Turns recordings into structured meeting minutes using transcription, summarization, and document templates.
+- **[File Indexer](https://github.com/that-guy-scott/file-indexer)** - Local source-file search with Rust, Ollama embeddings, Qdrant, and a browser interface.
+- **[MARC Extractor](https://github.com/that-guy-scott/marc_extractor_rs)** - A Rust/PostgreSQL utility for exporting Evergreen catalog records as MARC XML.
+- **[MOBIUS Meeting Minutes Generator](https://github.com/that-guy-scott/mobius-meeting-minutes-generator)** - Prepares draft meeting minutes for human review using transcription, summarization, and document templates.
 - **[Dictator](https://github.com/that-guy-scott/dictator)** - Linux voice dictation using Whisper and Silero voice activity detection.
 - **[Copy Paste Extension](https://github.com/that-guy-scott/copy-paste-extension)** - Configurable browser shortcuts for everyday copying and pasting.
 - **[Cos & Sin](https://github.com/that-guy-scott/cos-sin)** - A visual explanation I made for my son. This one stays.
